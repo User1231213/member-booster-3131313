@@ -1,0 +1,7 @@
+Kullanım
+
+1. Edit the `proxies.txt` file and set your proxies
+   
+2. Edit the `config.json` file with your invite / captcha key
+
+3. Open `main.py` and enjoy! :)
